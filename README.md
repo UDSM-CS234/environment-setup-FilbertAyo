@@ -1,3 +1,6 @@
+Filbert Ayo
+2020-04-00514
+
 # CS 234 Lab 1: Hello World"
 
 ## 1. Preliminaries
